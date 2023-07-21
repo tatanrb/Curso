@@ -1,0 +1,4 @@
+*.Log
+node_modules/
+*.tnp
+/vs
